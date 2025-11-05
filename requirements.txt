@@ -1,1 +1,2 @@
-Will be updated soon.....
+Compiler: gcc (GNU Compiler Collection)
+C Standard: C99
