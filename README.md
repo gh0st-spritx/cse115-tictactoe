@@ -23,7 +23,7 @@ Version Control: Git and Github
 
 This project was a collaborative effort by our 5-person team:
 1. Lead Developer: Soumik Halder (ID: 2531413042)
-2. Module Owner: Board & Display:
-3. Module Owner: Player Input:
-4. Module Owner: Game Logic:
-5. Documentation and Presentation:
+2. Module Owner: Board & Display: Mostafia Al Jannati (ID: 2532532642)
+3. Module Owner: Player Input: Shreyosi Mohanta (ID: 2532176042)
+4. Module Owner: Game Logic: Md.Kaif Khan (ID: 2532389642)
+5. Documentation and Presentation: Sarah Tabassum (ID: 2531479042)
