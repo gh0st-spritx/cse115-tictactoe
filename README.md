@@ -2,7 +2,8 @@
 A console-based version of the classic Tic-Tac-Toe game. This two-player project was developed in C for CSE 115 and allows two players to compete against each other on the same machine. It includes a dynamic board, player turn management, and logic to check for wins and draws.
 
 ## 📸 Screenshot
-[Will be updated once the project is ready]
+<img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/53e2550d-068b-4b52-959e-72b22a91b172" />
+
 
 ## 🚀 Core Features
 
