@@ -23,16 +23,16 @@ int main(void) {
     char board[3][3];
     bool exitProgram = false;
 
-    while (!exitProgram) {
+    while (!exitProgram) {     //As long as this is false, the application keeps running.
         initBoard(board);
         char currentPlayer = 'X';
         bool gameOver = false;
 
 
-        while (!gameOver) {
+        while (!gameOver) {     //This is the Game Loop.
             printBoard(board);
             printf("Player %c, enter your move (1-9), 'r' to restart, or 'e' to exit: ", currentPlayer);
-            int choice = getUserInput();
+            int choice = getUserInput();     //-1 (Exit) and -2 (Restart)
 
 
             if (choice == -1) {
@@ -72,7 +72,7 @@ int main(void) {
             }
             else {
 
-                currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';
+                currentPlayer = (currentPlayer == 'X') ? 'O' : 'X';    //We switch the player using a ternary operator
             }
         }
 
